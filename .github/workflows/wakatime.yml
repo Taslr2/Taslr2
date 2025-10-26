@@ -36,7 +36,3 @@ jobs:
           SHOW_UPDATED_DATE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           LOCALE: "cn"
-          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
-          CODE_LANG: "txt"
-          TIME_RANGE: "all_time"
-          LANG_COUNT: "10"

@@ -52,35 +52,15 @@
 
 <div align="center">
 
+### 🚀 从开始编程到现在总共写了多少代码呢？
+
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
 [![WakaTime](https://wakatime.com/badge/user/018e5cb8-9d0c-4f87-9b06-c3bb28c2c2c4.svg?style=for-the-badge)](https://wakatime.com/@018e5cb8-9d0c-4f87-9b06-c3bb28c2c2c4)
 
 </div>
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18); margin: 20px 0;">
-
-<div style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px; font-family: 'Fira Code', 'Consolas', monospace; color: #ffffff; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 18 October 2025 - To: 25 October 2025
-
-Total Time: 8 hrs 40 mins
-
-Vue.js       5 hrs 27 mins   ███████████████▓░░░░░░░░░   62.93 %
-Other        1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
-Python       37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-TypeScript   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-```
-
-<!--END_SECTION:waka-->
-
-</div>
-
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Taslr2&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 <div style="margin-top: 15px;">
   <img src="https://img.shields.io/badge/💻-Coding%20Time-ff69b4?style=for-the-badge&logo=wakatime&logoColor=white" alt="Coding Time"/>
