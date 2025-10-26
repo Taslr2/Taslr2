@@ -71,7 +71,7 @@
 
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18); margin: 20px 0;">
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taslr2&theme=transparent&hide_border=true&layout=compact&langs_count=22)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taslr2&theme=transparent&hide_border=true&layout=compact&langs_count=22&v=2)
 
 </div>
 </div>
