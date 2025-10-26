@@ -60,6 +60,8 @@
 
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18); margin: 20px 0;">
 
+<div style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px; font-family: 'Fira Code', 'Consolas', monospace; color: #ffffff; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -75,6 +77,8 @@ JSON         15 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+</div>
 
 </div>
 
