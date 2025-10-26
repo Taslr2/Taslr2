@@ -51,6 +51,19 @@
 ## ⏰ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 18 October 2025 - To: 25 October 2025
+
+Total Time: 8 hrs 40 mins
+
+Vue.js       5 hrs 27 mins   ███████████████▓░░░░░░░░░   62.93 %
+Other        1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+Python       37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+TypeScript   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+```
+
 <!--END_SECTION:waka-->
 
 
