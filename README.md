@@ -52,7 +52,13 @@
 
 <div align="center">
 
-**🚀 从开始编程到现在总共写了多少代码呢？**
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+
+[![wakatime](https://wakatime.com/badge/user/Taslr2.svg?style=for-the-badge&color=blue)](https://wakatime.com/@Taslr2)
+
+</div>
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18); margin: 20px 0;">
 
 <!--START_SECTION:waka-->
 
@@ -69,6 +75,14 @@ JSON         15 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+</div>
+
+<div style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/💻-Coding%20Time-ff69b4?style=for-the-badge&logo=wakatime&logoColor=white" alt="Coding Time"/>
+  <img src="https://img.shields.io/badge/📊-Weekly%20Stats-00d4aa?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Weekly Stats"/>
+  <img src="https://img.shields.io/badge/🔥-Keep%20Coding-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Keep Coding"/>
+</div>
 
 </div>
 
