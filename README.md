@@ -41,8 +41,8 @@
 <div align="center">
 
 <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taslr2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" width="380" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taslr2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&card_width=380" alt="Top Languages" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Taslr2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" style="height: 180px; width: auto; max-width: 420px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taslr2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" style="height: 180px; width: auto; max-width: 420px;" />
 </div>
 
 <div style="margin-top: 20px;">
