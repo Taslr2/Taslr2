@@ -4,7 +4,7 @@
 # 🌌 Hey there, I'm <span style="color:#00C2FF">Taslr2</span> 👋  
 ### ⚡ Full-Stack Developer | AI Enthusiast | Open Source Explorer  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+universe...;Code+creates+realities.;Let's+build+the+future+together!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+universe...;Code+creates+realities.;Live with passion!)
 
 </div>
 
