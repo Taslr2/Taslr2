@@ -4,7 +4,7 @@
 # 🌌 Hey there, I'm <span style="color:#00C2FF">Taslr2</span> 👋  
 ### ⚡ Full-Stack Developer | AI Enthusiast | Open Source Explorer  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+universe...;Code+creates+realities.;Live with passion!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+universe...;Code+creates+realities.;Live+with+passion!)
 
 </div>
 
@@ -48,11 +48,22 @@
 
 ---
 
+## ⏰ WakaTime Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🐍 Contribution Snake (Live Animation)
 
 <div align="center">
 
-![snake gif](https://github.com/Taslr2/Taslr2/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Taslr2/Taslr2/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Taslr2/Taslr2/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Taslr2/Taslr2/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
