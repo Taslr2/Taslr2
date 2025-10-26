@@ -54,7 +54,7 @@
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
-[![wakatime](https://wakatime.com/badge/user/Taslr2.svg?style=for-the-badge&color=blue)](https://wakatime.com/@Taslr2)
+[![WakaTime](https://wakatime.com/badge/user/018e5cb8-9d0c-4f87-9b06-c3bb28c2c2c4.svg?style=for-the-badge)](https://wakatime.com/@018e5cb8-9d0c-4f87-9b06-c3bb28c2c2c4)
 
 </div>
 
