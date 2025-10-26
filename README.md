@@ -40,14 +40,14 @@
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
-<td width="50%">
+<td width="50%" style="border: none;">
 
 ![Taslr2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taslr2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
 
 </td>
-<td width="50%">
+<td width="50%" style="border: none;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taslr2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
 
