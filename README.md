@@ -55,7 +55,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Live Animation)
+## 🐍 Contribution Snake
 
 <div align="center">
 
