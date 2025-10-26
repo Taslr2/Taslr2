@@ -40,9 +40,26 @@
 
 <div align="center">
 
-![Taslr2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taslr2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taslr2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)  
+<table>
+<tr>
+<td width="50%">
+
+![Taslr2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taslr2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
+
+</td>
+<td width="50%">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taslr2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
+
+</td>
+</tr>
+</table>
+
+<div style="margin-top: 20px;">
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Taslr2&theme=tokyonight&hide_border=true&border_radius=15)
+
+</div>
 
 </div>
 
@@ -50,37 +67,13 @@
 
 ## ⏰ WakaTime Coding Stats
 
-<div align="center">
-
 [![wakatime](https://wakatime.com/badge/user/f8238f9f-7007-4409-9d9a-c4c19de1748d.svg)](https://wakatime.com/@f8238f9f-7007-4409-9d9a-c4c19de1748d)
-
-</div>
 
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18); margin: 20px 0;">
 
-<!--START_SECTION:waka-->
-```text
-📊 本周编程时间统计
-
-💻 总编程时间: 699 hrs 46 mins
-
-🔥 本周编程语言:
-Vue.js       5 hrs 27 mins   ███████████████▓░░░░░░░░░   62.93 %
-Python       37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-TypeScript   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-```
-<!--END_SECTION:waka-->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taslr2&theme=transparent&hide_border=true&layout=compact&langs_count=22)
 
 </div>
-
-<div style="margin-top: 15px;">
-  <img src="https://img.shields.io/badge/💻-Coding%20Time-ff69b4?style=for-the-badge&logo=wakatime&logoColor=white" alt="Coding Time"/>
-  <img src="https://img.shields.io/badge/📊-Weekly%20Stats-00d4aa?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Weekly Stats"/>
-  <img src="https://img.shields.io/badge/🔥-Keep%20Coding-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Keep Coding"/>
-</div>
-
 </div>
 
 
