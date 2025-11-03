@@ -42,13 +42,6 @@
 
 <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Taslr2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" style="height: 180px; width: auto; max-width: 420px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taslr2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" style="height: 180px; width: auto; max-width: 420px;" />
-</div>
-
-<div style="margin-top: 20px;">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Taslr2&theme=tokyonight&hide_border=true&border_radius=15)
-
 </div>
 
 </div>
