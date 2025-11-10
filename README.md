@@ -57,6 +57,8 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taslr2&theme=transparent&hide_border=true&layout=compact&langs_count=22&v=2)
 
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 
 
