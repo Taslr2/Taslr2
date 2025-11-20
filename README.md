@@ -10,32 +10,6 @@
 
 ---
 
-## 🧠 About Me
-
-- 💡 Passionate about **AI, Web Tech, and System Design**  
-- 🧩 Exploring **Next.js**, **React**, **Node.js**, and **Python**  
-- 🚀 Always learning something new and sharing open-source projects  
-- 🌍 Based in the digital world, reachable anywhere  
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
