@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img src="https://stats.justsong.cn/api/github?username=Taslr2&theme=dark" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Taslr2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" height="180" />
 
 </div>
 
@@ -21,6 +21,8 @@
 ## ⏰ WakaTime Coding Stats
 
 <div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=f8238f9f-7007-4409-9d9a-c4c19de1748d&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="WakaTime Stats" height="180" />
 
 [![wakatime](https://wakatime.com/badge/user/f8238f9f-7007-4409-9d9a-c4c19de1748d.svg)](https://wakatime.com/@f8238f9f-7007-4409-9d9a-c4c19de1748d)
 
