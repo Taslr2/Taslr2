@@ -2,7 +2,9 @@
   
 # 🌌 Hey there, I'm Taslr2 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+universe...;Code+creates+realities.;Live+with+passion!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+universe...;Always+on+my+way.;Live+with+passion!)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Taslr2.Taslr2)
 
 </div>
 
@@ -21,10 +23,7 @@
 ## ⏰ WakaTime Coding Stats
 
 <div align="center">
-  <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Taslr2&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4&card_width=466&locale=pt-br&custom_title=Top+Langs&langs_count=8" alt="Top Langs" />
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=f8238f9f-7007-4409-9d9a-c4c19de1748d&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="WakaTime Stats" height="180" />
 
 [![wakatime](https://wakatime.com/badge/user/f8238f9f-7007-4409-9d9a-c4c19de1748d.svg)](https://wakatime.com/@f8238f9f-7007-4409-9d9a-c4c19de1748d)
 
@@ -35,7 +34,7 @@
 
 ---
 
-## 🌈 Quote of the Day
+## �🌈 Quote of the Day
 
 > *"The code you write is a reflection of how you think — make it elegant."* 🧬
 
