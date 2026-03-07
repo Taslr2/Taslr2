@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Taslr2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" height="180" />
+  <img src="https://stats.justsong.cn/api/github?username=Taslr2&theme=dark" alt="GitHub Stats" height="180" />
 
 </div>
 
@@ -21,8 +21,10 @@
 ## ⏰ WakaTime Coding Stats
 
 <div align="center">
+![Top Langs](https://helio-github-stats.vercel.app/api/top-langs?username=Taslr2&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4&card_width=466&locale=pt-br&custom_title=Top+Langs&langs_count=8)
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=f8238f9f-7007-4409-9d9a-c4c19de1748d&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="WakaTime Stats" height="180" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/f8238f9f-7007-4409-9d9a-c4c19de1748d.svg)](https://wakatime.com/@f8238f9f-7007-4409-9d9a-c4c19de1748d)
 
